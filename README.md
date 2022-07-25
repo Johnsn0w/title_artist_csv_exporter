@@ -8,3 +8,6 @@ Also performs some processing required to work with the buggy but awesome and fr
  - skips files with a blank artist or title field
  - skips files with a very long title or artist field
  - skips non-music files
+
+
+To run you may need to rightclick the file and select "Run with Powershell"
