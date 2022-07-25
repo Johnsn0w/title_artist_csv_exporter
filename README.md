@@ -1,4 +1,4 @@
-Powershell script fo use with NG-Spotify Importer(not mine) to load your mp3 folders on to spotify. https://nickwanders.com/projects/ng-spotify-importer/
+Powershell script for use with NG-Spotify Importer(not mine) to load your mp3 folders on to spotify. https://nickwanders.com/projects/ng-spotify-importer/
 
 
 This script scrapes title and artist data and outputs a csv with "title", "artist" as headers.
